@@ -39,10 +39,15 @@ Replace the source above with your actual dataset source if needed.
 The dataset was cleaned, transformed, and modelled before visualization:
 
 ✔️ Removed missing/duplicate values
+
 ✔️ Normalized numerical columns
+
 ✔️ Converted date/time fields
+
 ✔️ Created calculated columns & measures (DAX)
+
 ✔️ Used Power Query for ETL processing
+
 ✔️ Applied relationships between fact & dimension tables
 
 📈 Power BI Dashboards & Visuals
